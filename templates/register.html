@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Title</title>
+    <style>
+        /* 整体页面样式 */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+       .borders {
+            height: 400px;
+            width: 350px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+        }
+
+       .display {
+            display: inline-block;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        img {
+            cursor: pointer;
+        }
+
+        /* 复选框样式 */
+        input[type="checkbox"] {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="borders">
+        <form action="/accounts/register/" method="post" id="fm1">
+            {% csrf_token %}
+            <p>
+                <label for="id_username">用户名:</label>
+                {{ fm.username }}
+            </p>
+            <p>
+                <label for="id_password">密码:</label>
+                {{ fm.password }}
+            </p>
+            <p>
+                <label for="id_email">邮箱:</label>
+                {{ fm.email }}
+            </p>
+            <p>
+                <label for="id_code">验证码:</label>
+                <input type="text" id="id_code" name="code"/> <img src="/accounts/check_code/" onclick="adding(this);" id="img1"/>
+            </p>
+            <p>
+                <input type="checkbox" id="id_check_member" name="check_member">
+                <label for="id_check_member">记住我</label>
+            </p>
+            <button type="button" id="bt1">注册</button>
+        </form>
+
+    </div>
+    <script src="{% static 'jquery-1.12.4.js' %}"></script>
+    <script src="{% static 'jquery-cookie.js' %}"></script>
+
+    <script>
+        function adding(ths){
+            ths.src = ths.src+ '?';
+        }
+        $('#bt1').click(function (){
+            $.ajax({
+                url:'/accounts/register/',
+                data: $('#fm1').serialize(),
+                type:'POST',
+                dataType:'json',
+                header:{
+                    'X-CSRFToken': $.cookie('csrftoken')
+                },
+                success: function (data){
+                    console.log('finish');
+                    window.location.href = data.redirect_url;
+                },
+                error: function (data){
+                    console.log(data.error);
+                }
+            })
+        })
+    </script>
+
+</body>
+</html>

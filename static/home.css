@@ -1,0 +1,91 @@
+.header1 {
+    height: 48px;
+    background-color: cornflowerblue;
+    line-height: 48px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+.content1 {
+    width: 1500px;
+}
+
+.header1 .block {
+    display: inline-block;
+    padding: 0 10px;
+}
+
+.header1 .block:hover {
+    background-color: blue;
+}
+
+/*特殊用法*/
+.header1:hover .block {
+    color: yellow;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.menu {
+    min-width: 200px;
+    background-color: blue;
+    width: 200px;
+    position: absolute;
+    top: 48px;
+    left: 0;
+}
+
+.item {
+    color: white;
+}
+
+.header {
+    background-color: #4d6bfe;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+.content {
+    min-height: 10px;
+    min-width: 200px;
+    display: block;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.part_right_style {
+    background-color: #dddddd;
+    height: 1000px;
+    width: 800px;
+    margin: 10px auto;
+}
+
+.content_right {
+    position: absolute;
+    left: 200px;
+    top: 48px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+}
+
+.content_text_all{
+    border-bottom: #4d6bfe 2px solid;
+    margin: 5px 5px;
+}

@@ -1,0 +1,7 @@
+2025-04-25 21:21:38 - django.server - INFO - "GET / HTTP/1.1" 200 4384
+2025-04-25 21:21:38 - django.server - INFO - "GET /static/jquery-1.12.4.js HTTP/1.1" 304 0
+2025-04-25 21:21:38 - django.server - INFO - "GET /static/jquery-cookie.js HTTP/1.1" 200 3236
+2025-04-25 21:21:38 - django.server - INFO - "GET /static/home.css HTTP/1.1" 200 1271
+2025-04-25 21:21:38 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-25 21:21:38 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2826
+2025-04-25 21:21:40 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 7897

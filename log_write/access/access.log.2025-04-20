@@ -1,0 +1,37 @@
+2025-04-20 16:08:30 - django.server - INFO - "GET / HTTP/1.1" 200 3528
+2025-04-20 16:08:31 - django.server - INFO - "GET /static/jquery-cookie.js HTTP/1.1" 200 3236
+2025-04-20 16:08:31 - django.server - INFO - "GET /static/home.css HTTP/1.1" 200 1271
+2025-04-20 16:08:31 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-20 16:08:31 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2813
+2025-04-20 16:08:35 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-20 16:08:35 - django.server - INFO - "GET /static/photo/1.jpg HTTP/1.1" 200 304221
+2025-04-20 16:08:35 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1976
+2025-04-20 16:08:59 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 87
+2025-04-20 16:09:00 - django.server - INFO - "GET / HTTP/1.1" 200 4814
+2025-04-20 16:09:00 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/1/111.jpg HTTP/1.1" 200 184664
+2025-04-20 16:09:00 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/2/1.jpg HTTP/1.1" 200 304221
+2025-04-20 16:09:00 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:09:03 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 2398
+2025-04-20 16:09:03 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:11:18 - django.server - INFO - "POST /text_app/create_articles/ HTTP/1.1" 302 0
+2025-04-20 16:11:18 - django.server - INFO - "GET / HTTP/1.1" 200 5327
+2025-04-20 16:11:18 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:11:24 - django.server - INFO - "GET /text_app/detail-8-1/ HTTP/1.1" 200 3122
+2025-04-20 16:11:25 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:11:47 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-20 16:11:47 - django.server - INFO - "GET /text_app/detail-8-1/ HTTP/1.1" 200 3258
+2025-04-20 16:11:47 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:12:47 - django.server - INFO - "GET /text_app/detail-8-1/ HTTP/1.1" 200 3258
+2025-04-20 16:12:47 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:13:17 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-20 16:13:17 - django.server - INFO - "GET /text_app/detail-8-1/ HTTP/1.1" 200 3442
+2025-04-20 16:13:17 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:17:35 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-20 16:17:39 - django.server - INFO - "GET /text_app/detail-8-1/ HTTP/1.1" 200 3420
+2025-04-20 16:17:39 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:18:05 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-20 16:18:06 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-20 16:18:33 - django.server - INFO - "GET / HTTP/1.1" 200 5327
+2025-04-20 16:18:33 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-20 16:18:35 - django.server - INFO - "GET /text_app/detail-8-1/ HTTP/1.1" 200 3756
+2025-04-20 16:18:35 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664

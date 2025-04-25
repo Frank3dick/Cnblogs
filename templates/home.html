@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'home.css' %}"/>
+</head>
+<body>
+<div class="header1">
+    <div class="content1">
+        <a class="block left" href="{% url 'home' %}">首页</a>
+        <a class="block left">论坛</a>
+        <a class="block left" href="/categories/dif_categories/">分类</a>
+        <a class="block right" href="/text_app/clean_login/" style="float: right">注销</a>
+        <a class="block right" href="/accounts/editor/">编辑</a>
+        <a class="block right" href="/accounts/register/">注册</a>
+        <a class="block right" href="/accounts/login/">登录</a>
+        {% if statues.data %}
+            <img src='{{ photo }}' class="right" style="width: 52px; height: 47px; border-radius: 20px;" alt="头像"/>
+        {% endif %}
+    </div>
+</div>
+<div class="menu left">
+    <div class="item">
+        <div id="h_1" class="header" onclick="ChangeMenu('change_menu1')">文章</div>
+        <div id="change_menu1">
+            <a class="content" href="/text_app/create_articles/">发表文章</a>
+            <a class="content">选项2</a>
+            <a class="content">选项3</a>
+        </div>
+
+    </div>
+    <div class="item">
+        <div id="h_2" class="header" onclick="ChangeMenu('change_menu2')">我的</div>
+        <div id="change_menu2">
+            <a class="content" href="/comments/own_comments/" style="color: yellow">我的评论</a>
+            <a class="content" href="/text_app/own_articles/" style="color: yellow">我的文章</a>
+            <a class="content">我的关注</a>
+        </div>
+
+    </div>
+    <div class="item">
+        <div id="h_3" class="header" onclick="ChangeMenu('change_menu3')">菜单三</div>
+            <div id="change_menu3">
+                {% for category in categories %}
+                    <a class="content" href="/categories-{{ nid }}">{{ category }}</a>
+                {% endfor %}
+            </div>
+
+    </div>
+</div>
+<div class="content_right">
+    <div class="part_right_style">
+        {% for part in text_list %}
+            <div class="content_text_all">
+                {% if statues.data %}
+                    <img src='{% static part.filename %}' class="left" style="width: 52px; height: 47px; border-radius: 20px;" alt="头像"/>
+                {% endif %}
+                <span style="font-size: 50px"><a href="/text_app/detail-{{ part.id }}-{{ part.user_id }}/">{{ part.title }}</a></span>
+                <hr/>
+                <p>{{ part.summary }}</p>
+
+            </div>
+        {% endfor %}
+    </div>
+</div>
+<script src="{% static 'jquery-1.12.4.js' %}"></script>
+<script src="{% static 'jquery-cookie.js' %}"></script>
+
+<script>
+        function ChangeMenu(nid) {
+            $('#'+nid).children().toggle();
+        }
+</script>
+</body>
+</html>

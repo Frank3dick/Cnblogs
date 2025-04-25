@@ -1,0 +1,14 @@
+{% extends 'templates_header.html' %}
+{% block css %}
+    <style>
+        .category{
+            margin: 100px 100px 100px 100px;
+            font-size: 20px;
+        }
+    </style>
+{% endblock %}
+{% block content %}
+    {% for i in categories %}
+        <a class="category" href="/categories/dif_categories-{{ i.id }}/">{{i.name}}</a>
+    {% endfor %}
+{% endblock %}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>成功跳转</h1>
+    <form action="/accounts/editor" method="get">
+        {% csrf_token %}
+        <input type="submit" value="编辑" id="editor">
+    </form>
+
+    <script src="{% static 'jquery-1.12.4.js' %}"></script>
+    <script src="{% static 'jquery-cookie.js' %}"></script>
+
+</body>
+</html>

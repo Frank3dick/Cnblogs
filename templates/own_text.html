@@ -1,0 +1,41 @@
+{% extends 'templates_header.html' %}
+{% load static %}
+{% block content %}
+    <div class="content_right">
+    <div class="part_right_style">
+        {% for part in text_list %}
+            <div class="content_text_all">
+                {% if statues.photo %}
+                    <img src='{% static part.filename %}' class="left" style="width: 52px; height: 47px; border-radius: 20px;" alt="头像"/>
+                {% endif %}
+                <span style="font-size: 50px"><a href="/text_app/detail-{{ part.id }}-{{ part.user_id }}/">{{ part.title }}</a></span>|
+                <span id="delete-{{ part.id }}" onclick="Delete({{ part.id }});">删除</span>
+                <hr/>
+                <p>{{ part.summary }}</p>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
+{% block js %}
+    <script src="{% static 'jquery-1.12.4.js' %}"></script>
+    <script src="{% static 'jquery-cookie.js' %}"></script>
+    <script>
+        function Delete(article_id){
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET', `/text_app/delete-${article_id}/`, true);
+                var obj = $(`#delete-${article_id}`);
+                obj.empty();
+                obj.attr('style', 'color:red');
+                obj.text('已删除');
+                xhr.send()
+        }
+
+    </script>
+  {% endblock %}
+
+
+
+
+
+

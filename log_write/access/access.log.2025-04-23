@@ -1,0 +1,141 @@
+2025-04-23 20:56:30 - django.server - INFO - "GET / HTTP/1.1" 200 3849
+2025-04-23 20:56:30 - django.server - INFO - "GET /static/jquery-cookie.js HTTP/1.1" 200 3236
+2025-04-23 20:56:30 - django.server - INFO - "GET /static/home.css HTTP/1.1" 200 1271
+2025-04-23 20:56:30 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-23 20:56:30 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2813
+2025-04-23 20:56:32 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-23 20:56:32 - django.server - INFO - "GET /static/photo/1.jpg HTTP/1.1" 200 304221
+2025-04-23 20:56:32 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2108
+2025-04-23 20:56:45 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 87
+2025-04-23 20:56:45 - django.server - INFO - "GET / HTTP/1.1" 200 5327
+2025-04-23 20:56:45 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/2/1.jpg HTTP/1.1" 200 304221
+2025-04-23 20:56:45 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/1/111.jpg HTTP/1.1" 200 184664
+2025-04-23 20:56:45 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 20:56:47 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 3099
+2025-04-23 20:56:47 - django.server - INFO - "GET /static/kindeditor-master/kindeditor-all.js HTTP/1.1" 200 305979
+2025-04-23 20:56:47 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 20:56:47 - django.server - INFO - "GET /static/kindeditor-master/themes/default/default.css HTTP/1.1" 200 20773
+2025-04-23 20:56:47 - django.server - INFO - "GET /static/kindeditor-master/themes/default/default.png HTTP/1.1" 200 8299
+2025-04-23 20:57:00 - django.server - INFO - "GET /static/kindeditor-master/themes/default/background.png HTTP/1.1" 200 1410
+2025-04-23 20:58:43 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 3099
+2025-04-23 20:58:43 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:01:12 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-23 21:01:15 - django.request - ERROR - Internal Server Error: /text_app/create_articles/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\text_app\views.py", line 31, in wrapper
+    for entry in os.scandir(static_path + f'\\{user_id}'):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\pycharm_project\\Cnblogs\\static\\photo\\None'
+2025-04-23 21:01:15 - django.server - ERROR - "GET /text_app/create_articles/ HTTP/1.1" 500 73498
+2025-04-23 21:01:43 - django.request - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\text_app\views.py", line 31, in wrapper
+    for entry in os.scandir(static_path + f'\\{user_id}'):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\pycharm_project\\Cnblogs\\static\\photo\\None'
+2025-04-23 21:01:43 - django.server - ERROR - "GET / HTTP/1.1" 500 72800
+2025-04-23 21:01:56 - django.request - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\text_app\views.py", line 31, in wrapper
+    for entry in os.scandir(static_path + f'\\{user_id}'):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\pycharm_project\\Cnblogs\\static\\photo\\None'
+2025-04-23 21:01:56 - django.server - ERROR - "GET / HTTP/1.1" 500 72800
+2025-04-23 21:03:07 - django.request - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\text_app\views.py", line 31, in wrapper
+    for entry in os.scandir(static_path + f'\\{user_id}'):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\pycharm_project\\Cnblogs\\static\\photo\\None'
+2025-04-23 21:03:07 - django.server - ERROR - "GET / HTTP/1.1" 500 72937
+2025-04-23 21:03:33 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-23 21:03:34 - django.request - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\text_app\views.py", line 31, in wrapper
+    for entry in os.scandir(static_path + f'\\{user_id}'):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\pycharm_project\\Cnblogs\\static\\photo\\None'
+2025-04-23 21:03:34 - django.server - ERROR - "GET / HTTP/1.1" 500 72800
+2025-04-23 21:03:49 - django.request - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\text_app\views.py", line 31, in wrapper
+    for entry in os.scandir(static_path + f'\\{user_id}'):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\pycharm_project\\Cnblogs\\static\\photo\\None'
+2025-04-23 21:03:49 - django.server - ERROR - "GET / HTTP/1.1" 500 72937
+2025-04-23 21:04:50 - django.server - INFO - "GET / HTTP/1.1" 200 3849
+2025-04-23 21:04:50 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-23 21:04:50 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2813
+2025-04-23 21:04:58 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-23 21:04:58 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1540
+2025-04-23 21:05:12 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 87
+2025-04-23 21:05:12 - django.server - INFO - "GET / HTTP/1.1" 200 5327
+2025-04-23 21:05:12 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:05:14 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 3128
+2025-04-23 21:05:14 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:07:37 - django.server - INFO - "POST /text_app/create_articles/ HTTP/1.1" 302 0
+2025-04-23 21:07:37 - django.server - INFO - "GET / HTTP/1.1" 200 5799
+2025-04-23 21:07:37 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:07:40 - django.server - INFO - "GET /text_app/detail-9-1/ HTTP/1.1" 200 3590
+2025-04-23 21:07:40 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:10:23 - django.server - INFO - "GET / HTTP/1.1" 200 5799
+2025-04-23 21:10:23 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:10:32 - django.server - INFO - "GET /text_app/own_articles/ HTTP/1.1" 200 4104
+2025-04-23 21:10:32 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:10:36 - django.server - INFO - "GET /text_app/detail-9-1/ HTTP/1.1" 200 3438
+2025-04-23 21:10:36 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:10:48 - django.server - INFO - "GET /text_app/detail-9-1/ HTTP/1.1" 200 3438
+2025-04-23 21:10:48 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:22:48 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-23 21:23:18 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-23 21:25:16 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-23 21:25:19 - django.server - INFO - "GET / HTTP/1.1" 200 5799
+2025-04-23 21:25:19 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:25:23 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 3128
+2025-04-23 21:25:23 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:27:22 - django.server - INFO - "POST /text_app/create_articles/ HTTP/1.1" 302 0
+2025-04-23 21:27:22 - django.server - INFO - "GET / HTTP/1.1" 200 6267
+2025-04-23 21:27:22 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:27:30 - django.server - INFO - "GET /text_app/own_articles/ HTTP/1.1" 200 4453
+2025-04-23 21:27:30 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:27:35 - django.server - INFO - "GET /text_app/detail-10-1/ HTTP/1.1" 200 3328
+2025-04-23 21:27:35 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-23 21:28:08 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-23 21:28:08 - django.server - INFO - "GET /text_app/detail-10-1/ HTTP/1.1" 200 3502
+2025-04-23 21:28:08 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664

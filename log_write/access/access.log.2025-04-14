@@ -1,0 +1,609 @@
+2025-04-14 18:28:09 - django.server - INFO - "GET / HTTP/1.1" 200 3195
+2025-04-14 18:28:09 - django.server - INFO - "GET /static/home.css HTTP/1.1" 304 0
+2025-04-14 18:28:09 - django.server - INFO - "GET /static/jquery-cookie.js HTTP/1.1" 304 0
+2025-04-14 18:28:09 - django.server - INFO - "GET /static/jquery-1.12.4.js HTTP/1.1" 304 0
+2025-04-14 18:28:09 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-14 18:28:09 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2813
+2025-04-14 18:28:14 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-14 18:28:14 - django.server - WARNING - "GET /static/photo/1.png HTTP/1.1" 404 1847
+2025-04-14 18:28:14 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1415
+2025-04-14 18:28:42 - django.server - INFO - "GET /accounts/check_code/? HTTP/1.1" 200 1890
+2025-04-14 18:28:53 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 87
+2025-04-14 18:28:53 - django.server - INFO - "GET / HTTP/1.1" 200 4289
+2025-04-14 18:28:53 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/2/1.jpg HTTP/1.1" 304 0
+2025-04-14 18:28:53 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/1/111.jpg HTTP/1.1" 304 0
+2025-04-14 18:28:53 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:29:53 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-14 18:29:53 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1630
+2025-04-14 18:29:54 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-14 18:29:54 - django.server - WARNING - "GET /static/photo/1.png HTTP/1.1" 404 1847
+2025-04-14 18:29:54 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1592
+2025-04-14 18:30:10 - django.server - INFO - "GET /text_app/own_articles/ HTTP/1.1" 200 3032
+2025-04-14 18:30:10 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:30:20 - django.server - INFO - "GET /text_app/own_articles/ HTTP/1.1" 200 3032
+2025-04-14 18:30:20 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:30:22 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 2415
+2025-04-14 18:30:22 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:31:05 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 2415
+2025-04-14 18:31:05 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:31:07 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 2415
+2025-04-14 18:31:07 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:31:14 - django.server - INFO - "GET / HTTP/1.1" 200 4289
+2025-04-14 18:31:14 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:31:15 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 2415
+2025-04-14 18:31:15 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:32:20 - django.server - INFO - "GET / HTTP/1.1" 200 4289
+2025-04-14 18:32:20 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:32:21 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 2415
+2025-04-14 18:32:21 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:32:34 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 18:32:37 - django.server - INFO - "GET / HTTP/1.1" 200 3195
+2025-04-14 18:32:37 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-14 18:32:37 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2813
+2025-04-14 18:32:39 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-14 18:32:39 - django.server - INFO - "GET /static/photo/1.jpg HTTP/1.1" 304 0
+2025-04-14 18:32:39 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1820
+2025-04-14 18:33:04 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 87
+2025-04-14 18:33:04 - django.server - INFO - "GET / HTTP/1.1" 200 4289
+2025-04-14 18:33:04 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:33:06 - django.server - INFO - "GET /text_app/create_articles/ HTTP/1.1" 200 2397
+2025-04-14 18:33:06 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:38:43 - django.server - INFO - "POST /text_app/create_articles/ HTTP/1.1" 302 0
+2025-04-14 18:38:43 - django.server - INFO - "GET / HTTP/1.1" 200 4739
+2025-04-14 18:38:43 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:38:49 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 4910
+2025-04-14 18:38:49 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 18:39:09 - django.server - INFO - "GET /text_app/alter_article-7-1/ HTTP/1.1" 200 5412
+2025-04-14 19:40:59 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 19:41:04 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 5958
+2025-04-14 19:41:04 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:41:07 - django.server - INFO - "GET / HTTP/1.1" 200 4770
+2025-04-14 19:41:07 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:41:14 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 2953
+2025-04-14 19:41:14 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:41:36 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /comments/submit_comments/
+2025-04-14 19:41:36 - django.server - WARNING - "POST /comments/submit_comments/ HTTP/1.1" 403 2491
+2025-04-14 19:44:09 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 19:44:12 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 2918
+2025-04-14 19:44:12 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:44:17 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /comments/submit_comments/
+2025-04-14 19:44:17 - django.server - WARNING - "POST /comments/submit_comments/ HTTP/1.1" 403 2491
+2025-04-14 19:48:05 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 19:48:06 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 19:48:38 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view comments.views.submit_comments didn't return an HttpResponse object. It returned None instead.
+2025-04-14 19:48:38 - django.server - ERROR - "GET /comments/submit_comments/ HTTP/1.1" 500 72077
+2025-04-14 19:49:24 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 19:49:24 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 19:49:26 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 2918
+2025-04-14 19:49:26 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:49:31 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /comments/submit_comments/
+2025-04-14 19:49:31 - django.server - WARNING - "POST /comments/submit_comments/ HTTP/1.1" 403 2491
+2025-04-14 19:50:25 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 2871
+2025-04-14 19:50:25 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:50:28 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /comments/submit_comments/
+2025-04-14 19:50:28 - django.server - WARNING - "POST /comments/submit_comments/ HTTP/1.1" 403 2491
+2025-04-14 19:52:21 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 2997
+2025-04-14 19:52:21 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:52:25 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /comments/submit_comments/
+2025-04-14 19:52:25 - django.server - WARNING - "POST /comments/submit_comments/ HTTP/1.1" 403 2491
+2025-04-14 19:53:25 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 19:53:28 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3001
+2025-04-14 19:53:28 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:53:32 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /comments/submit_comments/
+2025-04-14 19:53:32 - django.server - WARNING - "POST /comments/submit_comments/ HTTP/1.1" 403 2491
+2025-04-14 19:55:16 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 19:55:17 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 19:55:17 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3001
+2025-04-14 19:55:17 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:55:21 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /comments/submit_comments/
+2025-04-14 19:55:21 - django.server - WARNING - "POST /comments/submit_comments/ HTTP/1.1" 403 2491
+2025-04-14 19:57:03 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 19:57:09 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 2899
+2025-04-14 19:57:09 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 19:57:14 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 13, in submit_comments
+    submit_content = json.loads(request.body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-04-14 19:57:14 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 83889
+2025-04-14 20:02:30 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:02:35 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3845
+2025-04-14 20:02:35 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:02:41 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 13, in submit_comments
+    submit_content = json.loads(request.body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-04-14 20:02:41 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 84476
+2025-04-14 20:03:20 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:03:22 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3845
+2025-04-14 20:03:22 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:03:26 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 13, in submit_comments
+    submit_content = json.loads(request.body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-04-14 20:03:26 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 85052
+2025-04-14 20:09:27 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:09:31 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3026
+2025-04-14 20:09:31 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:09:34 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 21, in submit_comments
+    models.Comment.objects.create(content=comments, article_id=article_id, up_user_id=up_id)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "1": "Comment.up_user_id" must be a "User" instance.
+2025-04-14 20:09:34 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 92432
+2025-04-14 20:09:50 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 21, in submit_comments
+    models.Comment.objects.create(content=comments, article_id=article_id, up_user_id=up_id)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "1": "Comment.up_user_id" must be a "User" instance.
+2025-04-14 20:09:50 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 92486
+2025-04-14 20:12:26 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 20:12:26 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:12:27 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3026
+2025-04-14 20:12:27 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:12:31 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 22, in submit_comments
+    models.Comment.objects.create(content=comments, article_id=article_id, up_user_id=up_id)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "1": "Comment.up_user_id" must be a "User" instance.
+2025-04-14 20:12:31 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 92348
+2025-04-14 20:13:40 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 20:13:40 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:13:40 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3026
+2025-04-14 20:13:40 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:13:43 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 23, in submit_comments
+    models.Comment.objects.create(content=comments, article_id=article_id, up_user_id=up_id)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "1": "Comment.up_user_id" must be a "User" instance.
+2025-04-14 20:13:43 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 91993
+2025-04-14 20:14:07 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3026
+2025-04-14 20:14:07 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:14:07 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 20:14:07 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:14:10 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3026
+2025-04-14 20:14:10 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:14:14 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 90
+2025-04-14 20:14:14 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view comments.views.submit_comments didn't return an HttpResponse object. It returned None instead.
+2025-04-14 20:14:14 - django.server - ERROR - "GET /comments/submit_comments/ HTTP/1.1" 500 72248
+2025-04-14 20:14:32 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:14:49 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:14:50 - django.server - INFO - "GET / HTTP/1.1" 200 4770
+2025-04-14 20:14:50 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:14:54 - django.server - INFO - "GET /text_app/detail-1-1/ HTTP/1.1" 200 3278
+2025-04-14 20:14:54 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:15:00 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 21, in submit_comments
+    models.Comment.objects.create(content=comments, article_id=article_id, up_user_id=up_id)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "1": "Comment.up_user_id" must be a "User" instance.
+2025-04-14 20:15:00 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 91951
+2025-04-14 20:16:39 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 20:16:40 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:17:07 - django.server - INFO - "GET / HTTP/1.1" 200 4770
+2025-04-14 20:17:07 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:17:12 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3041
+2025-04-14 20:17:12 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:17:16 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 21, in submit_comments
+    models.Comment.objects.create(content=comments,up_user_id=up_id, article_id=article_id)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "1": "Comment.up_user_id" must be a "User" instance.
+2025-04-14 20:17:16 - django.server - ERROR - "POST /comments/submit_comments/ HTTP/1.1" 500 92004
+2025-04-14 20:19:31 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:19:35 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3041
+2025-04-14 20:19:35 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:19:38 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-14 20:19:38 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view comments.views.submit_comments didn't return an HttpResponse object. It returned None instead.
+2025-04-14 20:19:38 - django.server - ERROR - "GET /comments/submit_comments/ HTTP/1.1" 500 72248
+2025-04-14 20:21:08 - django.request - ERROR - Internal Server Error: /comments/submit_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view comments.views.submit_comments didn't return an HttpResponse object. It returned None instead.
+2025-04-14 20:21:08 - django.server - ERROR - "GET /comments/submit_comments/ HTTP/1.1" 500 72385
+2025-04-14 20:21:10 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3022
+2025-04-14 20:21:10 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:21:47 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 20:21:48 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:31:36 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:31:41 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3117
+2025-04-14 20:31:41 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:31:43 - django.server - INFO - "GET / HTTP/1.1" 200 4770
+2025-04-14 20:31:43 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:31:46 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3011
+2025-04-14 20:31:46 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:31:48 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3117
+2025-04-14 20:31:48 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:31:50 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3117
+2025-04-14 20:31:50 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:31:59 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-14 20:31:59 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3208
+2025-04-14 20:31:59 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:32:06 - django.server - INFO - "GET /text_app/detail-1-1/ HTTP/1.1" 200 3263
+2025-04-14 20:32:06 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:33:42 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:33:52 - django.server - INFO - "GET /text_app/detail-1-1/ HTTP/1.1" 200 3263
+2025-04-14 20:33:52 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:33:54 - django.server - INFO - "GET / HTTP/1.1" 200 4770
+2025-04-14 20:33:54 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:33:57 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3011
+2025-04-14 20:33:57 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:34:00 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3170
+2025-04-14 20:34:00 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:34:27 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3200
+2025-04-14 20:34:27 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:34:53 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3244
+2025-04-14 20:34:53 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:35:35 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3286
+2025-04-14 20:35:35 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:35:55 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3292
+2025-04-14 20:35:56 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:36:05 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3292
+2025-04-14 20:36:05 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:36:16 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3292
+2025-04-14 20:36:16 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:36:26 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-14 20:36:26 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3425
+2025-04-14 20:36:26 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:38:45 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\text_app\views.py changed, reloading.
+2025-04-14 20:38:45 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:38:47 - django.server - INFO - "GET /text_app/detail-5-2/ HTTP/1.1" 200 3425
+2025-04-14 20:38:47 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:39:08 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3011
+2025-04-14 20:39:08 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:39:10 - django.server - INFO - "GET /text_app/detail-1-1/ HTTP/1.1" 200 3263
+2025-04-14 20:39:10 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:39:12 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 6016
+2025-04-14 20:39:12 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:39:16 - django.server - INFO - "GET /text_app/detail-6-1/ HTTP/1.1" 200 3137
+2025-04-14 20:39:16 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:39:27 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-14 20:39:27 - django.server - INFO - "GET /text_app/detail-6-1/ HTTP/1.1" 200 3267
+2025-04-14 20:39:28 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-14 20:39:32 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-14 20:39:32 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1728
+2025-04-14 20:40:14 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 87
+2025-04-14 20:40:14 - django.server - INFO - "GET / HTTP/1.1" 200 4770
+2025-04-14 20:40:14 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 304221
+2025-04-14 20:40:20 - django.server - INFO - "GET /text_app/detail-4-2/ HTTP/1.1" 200 3081
+2025-04-14 20:40:20 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 304221
+2025-04-14 20:40:22 - django.server - INFO - "GET /text_app/detail-6-1/ HTTP/1.1" 200 3197
+2025-04-14 20:40:22 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 304221
+2025-04-14 20:40:34 - django.server - INFO - "POST /comments/submit_comments/ HTTP/1.1" 200 112
+2025-04-14 20:40:34 - django.server - INFO - "GET /text_app/detail-6-1/ HTTP/1.1" 200 3327
+2025-04-14 20:40:34 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 304221
+2025-04-14 20:57:31 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:57:36 - django.server - INFO - "GET / HTTP/1.1" 200 4814
+2025-04-14 20:57:36 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 304221
+2025-04-14 20:57:40 - django.request - ERROR - Internal Server Error: /comments/own_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 33, in own_comments
+    obj = models.Comment.objects.select_related("up_user_id_id").get(up_user_id_id=request.session.get("id"))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1561, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 747, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 279, in get_select
+    related_klass_infos = self.get_related_selections(select, select_mask)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1379, in get_related_selections
+    raise FieldError(
+django.core.exceptions.FieldError: Invalid field name(s) given in select_related: 'up_user_id_id'. Choices are: up_user_id, article_id
+2025-04-14 20:57:40 - django.server - ERROR - "GET /comments/own_comments/ HTTP/1.1" 500 119746
+2025-04-14 20:58:06 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 20:58:07 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:58:07 - django.request - ERROR - Internal Server Error: /comments/own_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 34, in own_comments
+    return render(request, 'own_comments.html', {'objs':obj})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\template\defaulttags.py", line 198, in render
+    values = list(values)
+             ^^^^^^^^^^^^
+TypeError: 'Comment' object is not iterable
+2025-04-14 20:58:07 - django.server - ERROR - "GET /comments/own_comments/ HTTP/1.1" 500 137996
+2025-04-14 20:59:29 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 20:59:30 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 20:59:30 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 2006
+2025-04-14 21:00:12 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 21:00:12 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 21:00:13 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1453
+2025-04-14 21:00:33 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1453
+2025-04-14 21:00:39 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1453
+2025-04-14 21:00:43 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1453
+2025-04-14 21:01:15 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1433
+2025-04-14 21:01:53 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1433
+2025-04-14 21:02:01 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1453
+2025-04-14 21:02:02 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1453
+2025-04-14 21:02:59 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 21:03:01 - django.request - ERROR - Internal Server Error: /comments/own_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 34, in own_comments
+    print(obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 379, in __repr__
+    return "<%s %r>" % (self.__class__.__name__, data)
+                                                 ^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 588, in __repr__
+    return "<%s: %s>" % (self.__class__.__name__, self)
+                                                  ^^^^
+TypeError: __str__ returned non-string (type int)
+2025-04-14 21:03:01 - django.server - ERROR - "GET /comments/own_comments/ HTTP/1.1" 500 78317
+2025-04-14 21:03:22 - django.request - ERROR - Internal Server Error: /comments/own_comments/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\comments\views.py", line 34, in own_comments
+    print(obj)
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 379, in __repr__
+    return "<%s %r>" % (self.__class__.__name__, data)
+                                                 ^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\base.py", line 588, in __repr__
+    return "<%s: %s>" % (self.__class__.__name__, self)
+                                                  ^^^^
+TypeError: __str__ returned non-string (type int)
+2025-04-14 21:03:22 - django.server - ERROR - "GET /comments/own_comments/ HTTP/1.1" 500 78317
+2025-04-14 21:03:35 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\comments\views.py changed, reloading.
+2025-04-14 21:03:36 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-14 21:03:36 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1456
+2025-04-14 21:03:48 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1456
+2025-04-14 21:04:22 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1474
+2025-04-14 21:04:41 - django.server - INFO - "GET /comments/own_comments/ HTTP/1.1" 200 1474

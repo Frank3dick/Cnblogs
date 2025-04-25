@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Title</title>
+    <style>
+        /* 整体页面样式 */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+       .borders {
+            height: 500px;
+            width: 350px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+        }
+
+       .display {
+            display: inline-block;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        img {
+            cursor: pointer;
+        }
+
+        /* 复选框样式 */
+        input[type="checkbox"] {
+            margin-right: 5px;
+        }
+        .head_photo_border{
+            border: cornflowerblue;
+            float: left;
+            width: 150px;
+            height: 200px;
+            position: relative;
+        }
+        .upload_surface{
+            width: 150px;
+            height: 200px;
+            position: relative;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            top: 0;
+            z-index: 9;
+
+        }
+        .upload_input{
+            width: 150px;
+            height: 200px;
+            opacity: 0;
+            position: relative;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            top: -200px;
+            z-index: 10;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="head_photo_border">
+        <img src="{% static 'photo/1.jpg' %}" id="img1" class="upload_surface">
+        <input type="file" id="sb_field" name="files_obj" class="upload_input"/>
+{#        两个子relative， 需要最下面哪个以abslout方式定义top#}
+    </div>
+    <input type="button" value="更换头像" id="bt_photo"/>
+    <div class="borders">
+        <form action="/accounts/login/" method="post" id="fm1">
+            {% csrf_token %}
+            <p>
+                <label for="id_username">用户名:</label>
+                <input type="text" name="username" id="id_username" placeholder="用户名"/>
+            </p>
+            <p>
+                <label for="id_pwd">密码:</label>
+                <input type="password" name="password" id="id_pwd" placeholder="密码"/>
+            </p>
+            <p>
+                <label for="id_email">邮箱:</label>
+                <input type="text" name="email" id="id_email" placeholder="邮箱"/>
+            </p>
+            <p>
+                <label for="id_code">验证码:</label>
+                <input type="text" name="code" id="id_code" placeholder="验证码"/> <img src="{{ check_code }}" onclick="adding(this);" id="img1"/>
+            </p>
+            <p>
+                <input type="checkbox" id="id_check_member" name="check_member">
+                <label for="id_check_member">记住我</label>
+            </p>
+            <button type="button" id="bt1">登录</button>
+        </form>
+        <form action="/accounts/register/" method="get">
+            <input type="submit" value="注册"/>
+        </form>
+
+    </div>
+    <script src="{% static 'jquery-1.12.4.js' %}"></script>
+    <script src="{% static 'jquery-cookie.js' %}"></script>
+
+    <script>
+        function adding(ths){
+            ths.src = ths.src+ '?';
+        }
+        $('#bt1').click(function (){
+            $.ajax({
+                url:'/accounts/login/',
+                data: $('#fm1').serialize(),
+                type:'POST',
+                dataType:'json',
+                header:{
+                    'X-CSRFToken': $.cookie('csrftoken')
+                },
+                success: function (data){
+                    if(data.is_log){
+                        console.log('finish');
+                        window.location.href = data.redirect_url;
+                    }else{
+                        window.location.href = data.redirect_url;
+                        alert(data.error);
+                    }
+                },
+                error: function (data){
+                    console.log(data.error);
+                }
+            })
+        })
+        // 把静态文件基础 URL 传递给 JavaScript
+const STATIC_URL = "{% static '' %}";
+$('#bt_photo').click(function () {
+    var files_obj = $('#sb_field')[0].files[0];
+    console.log(files_obj);
+    if (files_obj === undefined) {
+        window.location.href = '/accounts/login/';
+        return;
+    }
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', '/accounts/change_head/', true);
+
+    var formData = new FormData();
+    formData.append('file', files_obj); // 建议使用 'file' 作为键名
+
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+            const responseData = JSON.parse(xhr.responseText);
+            console.log(responseData)
+            var photo_src = responseData.data;
+            var file_name = responseData.user_id;
+
+            console.log(file_name);
+            console.log(photo_src)
+            if (file_name) {
+                var obj = $('#img1');
+                console.log(obj)
+                obj.empty();
+                obj.attr('src', STATIC_URL + `photo/${file_name}/${photo_src}`); // 使用 attr 方法设置 src 属性
+                // 数字 1 左边 打出来的  “ ` ` ” ES6镶嵌替换符号的 类似于 f"{files_name}"
+            } else {
+                window.location.href = '/accounts/login/';
+            }
+        }
+    };
+
+    xhr.setRequestHeader('X-CSRFToken', $.cookie('csrftoken'));
+    xhr.send(formData);
+});
+
+    </script>
+
+</body>
+</html>

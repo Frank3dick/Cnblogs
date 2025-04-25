@@ -1,0 +1,12 @@
+{% extends 'templates_header.html' %}
+{% block content %}
+    {% for obj in objs %}
+        <div>
+            <hr/>
+            <h5>{{ obj.article_id.title }}</h5>
+            <p>{{ obj.up_user_id.username }}</p>
+            <p>{{ obj.content }}</p>
+        </div>
+
+    {% endfor %}
+{% endblock %}

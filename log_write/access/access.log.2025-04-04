@@ -1,0 +1,1579 @@
+2025-04-02 21:10:19 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:10:22 - django.request - WARNING - Not Found: /
+2025-04-02 21:10:22 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-02 21:10:22 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-02 21:10:22 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2666
+2025-04-02 21:10:33 - django.server - INFO - "GET /accounts/login HTTP/1.1" 301 0
+2025-04-02 21:10:33 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4050
+2025-04-02 21:10:33 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:10:33 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2786
+2025-04-02 21:10:36 - django.server - INFO - "GET /accounts/check_code/? HTTP/1.1" 200 3641
+2025-04-02 21:10:37 - django.server - INFO - "GET /accounts/check_code/?? HTTP/1.1" 200 3495
+2025-04-02 21:10:49 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:11:20 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:11:23 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4050
+2025-04-02 21:11:23 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:11:23 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3518
+2025-04-02 21:13:02 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:13:04 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4107
+2025-04-02 21:13:04 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:13:04 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3600
+2025-04-02 21:13:08 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:13:42 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4107
+2025-04-02 21:13:42 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:13:42 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3306
+2025-04-02 21:13:44 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-02 21:13:44 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-02 21:13:50 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:14:19 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-02 21:14:19 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-02 21:20:55 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:20:57 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4092
+2025-04-02 21:20:57 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:20:57 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3291
+2025-04-02 21:21:04 - django.server - WARNING - "GET /static/css/bootstrap.min.css.map%7D HTTP/1.1" 404 1894
+2025-04-02 21:21:52 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:21:53 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4021
+2025-04-02 21:21:53 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3684
+2025-04-02 21:24:10 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:24:12 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3542
+2025-04-02 21:24:12 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3977
+2025-04-02 21:25:12 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:25:12 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3538
+2025-04-02 21:25:12 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3381
+2025-04-02 21:28:28 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:28:30 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3505
+2025-04-02 21:28:30 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2950
+2025-04-02 21:28:32 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 142
+2025-04-02 21:29:21 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-02 21:29:27 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 142
+2025-04-02 21:29:34 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3505
+2025-04-02 21:29:34 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3371
+2025-04-02 21:29:36 - django.server - INFO - "GET /accounts/check_code/? HTTP/1.1" 200 3321
+2025-04-02 21:29:37 - django.server - INFO - "GET /accounts/check_code/?? HTTP/1.1" 200 3142
+2025-04-02 21:29:55 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 142
+2025-04-03 10:28:47 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:29:06 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:29:10 - django.request - WARNING - Not Found: /
+2025-04-03 10:29:10 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 10:29:10 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-03 10:29:11 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2666
+2025-04-03 10:29:22 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3640
+2025-04-03 10:29:22 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3156
+2025-04-03 10:29:35 - django.server - INFO - "GET /accounts/check_code/? HTTP/1.1" 200 3123
+2025-04-03 10:29:38 - django.server - INFO - "GET /accounts/check_code/?? HTTP/1.1" 200 3507
+2025-04-03 10:29:51 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 10:29:51 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 10:32:40 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:33:04 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3708
+2025-04-03 10:33:04 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3200
+2025-04-03 10:33:12 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 10:33:12 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 10:33:20 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 10:33:20 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 10:34:37 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:34:44 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 10:34:44 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 10:35:22 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:35:23 - django.request - WARNING - Not Found: /
+2025-04-03 10:35:23 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 10:35:30 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:35:30 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 4128
+2025-04-03 10:35:36 - django.request - ERROR - Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 23, in login
+    username_db = User.objects.filter(username=username).first().username
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'username'
+2025-04-03 10:35:36 - django.server - ERROR - "POST /accounts/login/ HTTP/1.1" 500 73768
+2025-04-03 10:39:41 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:39:48 - django.request - ERROR - Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 24, in login
+    username_db = User.objects.filter(username=username).first().username
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'username'
+2025-04-03 10:39:48 - django.server - ERROR - "POST /accounts/login/ HTTP/1.1" 500 73754
+2025-04-03 10:40:22 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 10:40:23 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:43:43 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:43:47 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:43:47 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3450
+2025-04-03 10:43:58 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 97
+2025-04-03 10:44:24 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:44:25 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:44:25 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3417
+2025-04-03 10:44:34 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 97
+2025-04-03 10:46:11 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:46:14 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:46:16 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:46:16 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3786
+2025-04-03 10:46:26 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 10:46:32 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:48:14 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:48:19 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:48:19 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3349
+2025-04-03 10:49:51 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\Cnblogs\settings.py changed, reloading.
+2025-04-03 10:49:51 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:53:09 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:53:12 - django.request - WARNING - Not Found: /
+2025-04-03 10:53:12 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 10:53:24 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3707
+2025-04-03 10:53:24 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3481
+2025-04-03 10:56:28 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 10:56:34 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3727
+2025-04-03 10:56:34 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3523
+2025-04-03 11:04:13 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:04:17 - django.request - WARNING - Not Found: /
+2025-04-03 11:04:17 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 11:04:25 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3727
+2025-04-03 11:04:25 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3117
+2025-04-03 11:08:25 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 84, in editor
+    obj = models.User.objects.get(id=account_id)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+accounts.models.User.DoesNotExist: User matching query does not exist.
+2025-04-03 11:08:25 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 80183
+2025-04-03 11:09:41 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 11:09:41 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:09:42 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 84, in editor
+    obj = models.User.objects.get(id=int(account_id))
+                                     ^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-04-03 11:09:42 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 71825
+2025-04-03 11:09:48 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 84, in editor
+    obj = models.User.objects.get(id=int(account_id))
+                                     ^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-04-03 11:09:48 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 71825
+2025-04-03 11:24:19 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:24:29 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3727
+2025-04-03 11:24:29 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3876
+2025-04-03 11:26:01 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:26:04 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3725
+2025-04-03 11:26:04 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 4167
+2025-04-03 11:32:17 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:32:22 - django.request - WARNING - Not Found: /
+2025-04-03 11:32:22 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 11:32:34 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3725
+2025-04-03 11:32:34 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3555
+2025-04-03 11:32:46 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 97
+2025-04-03 11:32:46 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3725
+2025-04-03 11:32:49 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3380
+2025-04-03 11:33:33 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:33:35 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:33:40 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:34:03 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:36:39 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:36:40 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:36:41 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:40:35 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:40:46 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:40:49 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3791
+2025-04-03 11:40:49 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3882
+2025-04-03 11:41:09 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:41:10 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:41:14 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:43:09 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 2983
+2025-04-03 11:43:09 - django.request - WARNING - Not Found: /cmdb/code/
+2025-04-03 11:43:09 - django.server - WARNING - "GET /cmdb/code/ HTTP/1.1" 404 2663
+2025-04-03 11:44:56 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:44:58 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3791
+2025-04-03 11:44:59 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3791
+2025-04-03 11:44:59 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3879
+2025-04-03 11:45:00 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 3044
+2025-04-03 11:45:00 - django.request - WARNING - Not Found: /cmdb/code/
+2025-04-03 11:45:00 - django.server - WARNING - "GET /cmdb/code/ HTTP/1.1" 404 2663
+2025-04-03 11:47:20 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:47:21 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 3374
+2025-04-03 11:47:22 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 4047
+2025-04-03 11:49:15 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 11:49:15 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:49:17 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 11:49:18 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 3081
+2025-04-03 11:51:28 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:51:29 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 11:51:29 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1828
+2025-04-03 11:52:00 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 27
+2025-04-03 11:56:36 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 11:56:36 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 11:56:37 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 89
+2025-04-03 11:56:37 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 148
+2025-04-03 12:01:20 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 12:01:50 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 12:01:51 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 12:01:51 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1784
+2025-04-03 12:01:52 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 3438
+2025-04-03 12:01:52 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1401
+2025-04-03 12:02:05 - django.server - INFO - "GET /accounts/check_code/? HTTP/1.1" 200 1762
+2025-04-03 12:02:11 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 12:02:11 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 12:02:11 - django.server - INFO - "POST /accounts/register/ HTTP/1.1" 200 90
+2025-04-03 12:04:13 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 12:04:13 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1804
+2025-04-03 12:04:14 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 3438
+2025-04-03 12:04:14 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1699
+2025-04-03 12:04:21 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 3438
+2025-04-03 12:04:21 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2042
+2025-04-03 12:05:06 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 12:05:08 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 3438
+2025-04-03 12:05:08 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1357
+2025-04-03 12:06:40 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 12:06:40 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 12:06:41 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 12:06:41 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 12:06:42 - django.request - WARNING - Not Found: /cmdb/real_login/
+2025-04-03 12:06:42 - django.server - WARNING - "POST /cmdb/real_login/ HTTP/1.1" 404 2682
+2025-04-03 12:07:41 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 12:07:44 - django.server - INFO - "GET /accounts/register/? HTTP/1.1" 200 3440
+2025-04-03 12:07:44 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1677
+2025-04-03 12:07:53 - django.server - INFO - "POST /accounts/register/ HTTP/1.1" 200 100
+2025-04-03 12:07:53 - django.server - INFO - "GET /accounts/register/ HTTP/1.1" 200 3440
+2025-04-03 12:07:53 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1370
+2025-04-03 12:08:50 - django.server - INFO - "POST /accounts/register/ HTTP/1.1" 200 100
+2025-04-03 12:08:50 - django.server - INFO - "GET /accounts/register/ HTTP/1.1" 200 3440
+2025-04-03 12:08:50 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1417
+2025-04-03 12:09:04 - django.server - INFO - "POST /accounts/register/ HTTP/1.1" 200 90
+2025-04-03 12:09:04 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 148
+2025-04-03 14:18:24 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:20:07 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:20:09 - django.request - WARNING - Not Found: /
+2025-04-03 14:20:09 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 14:20:09 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-03 14:20:09 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2666
+2025-04-03 14:20:21 - django.server - INFO - "GET /accounts/editor HTTP/1.1" 301 0
+2025-04-03 14:20:21 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:20:21 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:20:21 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1584
+2025-04-03 14:20:42 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 89
+2025-04-03 14:20:42 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 148
+2025-04-03 14:20:48 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 26, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 121, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:20:48 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 77047
+2025-04-03 14:21:52 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:22:19 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 148
+2025-04-03 14:22:25 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:22:25 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1397
+2025-04-03 14:22:26 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:22:26 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1771
+2025-04-03 14:22:54 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 89
+2025-04-03 14:22:54 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 148
+2025-04-03 14:23:23 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 26, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 121, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:23:23 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 77039
+2025-04-03 14:30:19 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:30:20 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:32:06 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:32:11 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:32:12 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:32:12 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2090
+2025-04-03 14:32:31 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 89
+2025-04-03 14:32:31 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 148
+2025-04-03 14:32:41 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 122, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:32:41 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 77080
+2025-04-03 14:34:24 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:34:28 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:34:30 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:34:30 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1681
+2025-04-03 14:34:44 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 89
+2025-04-03 14:34:44 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 148
+2025-04-03 14:40:38 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 510
+2025-04-03 14:40:43 - django.server - INFO - "GET /accounts/editor?csrfmiddlewaretoken=zhCgp1C06fkQjg4kdY18obrcBBgBgOrvHYGfYosZ0428ughNF4uESjDEdt1jJcom HTTP/1.1" 301 0
+2025-04-03 14:40:43 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 122, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:40:43 - django.server - ERROR - "GET /accounts/editor/?csrfmiddlewaretoken=zhCgp1C06fkQjg4kdY18obrcBBgBgOrvHYGfYosZ0428ughNF4uESjDEdt1jJcom HTTP/1.1" 500 77751
+2025-04-03 14:41:41 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:41:42 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:41:43 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 510
+2025-04-03 14:41:44 - django.server - INFO - "GET /accounts/editor?csrfmiddlewaretoken=EbElcUME6nmMhyeDkf5oDbvBcCMaofHJMSIkLhCD0c44syr6MlyU7jH3OuxSRDEA HTTP/1.1" 301 0
+2025-04-03 14:41:44 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 28, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 123, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:41:44 - django.server - ERROR - "GET /accounts/editor/?csrfmiddlewaretoken=EbElcUME6nmMhyeDkf5oDbvBcCMaofHJMSIkLhCD0c44syr6MlyU7jH3OuxSRDEA HTTP/1.1" 500 77714
+2025-04-03 14:42:55 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:42:56 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:43:43 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 510
+2025-04-03 14:43:45 - django.server - INFO - "GET /accounts/editor?csrfmiddlewaretoken=bE0F2zvz1aMRcsN1e0Y8hqCmoX3bwPmdjl4EBWlyVZu9ns0uG6rELyOO0POTZdj4 HTTP/1.1" 301 0
+2025-04-03 14:43:45 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 29, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 124, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:43:45 - django.server - ERROR - "GET /accounts/editor/?csrfmiddlewaretoken=bE0F2zvz1aMRcsN1e0Y8hqCmoX3bwPmdjl4EBWlyVZu9ns0uG6rELyOO0POTZdj4 HTTP/1.1" 500 77739
+2025-04-03 14:44:45 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:44:47 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 510
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor?csrfmiddlewaretoken=IceAvjFS3AjLvOOIk84CudGSPJWfn1abQTiz4GvRXp13GO1bMex8YlSkrBHXQp72 HTTP/1.1" 301 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/?csrfmiddlewaretoken=IceAvjFS3AjLvOOIk84CudGSPJWfn1abQTiz4GvRXp13GO1bMex8YlSkrBHXQp72 HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:48 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:49 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:50 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:50 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:50 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:50 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:50 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:50 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:44:50 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-03 14:47:29 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:47:35 - django.request - WARNING - Not Found: /
+2025-04-03 14:47:35 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 14:47:47 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3771
+2025-04-03 14:47:47 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2074
+2025-04-03 14:48:02 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 122, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:48:02 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76595
+2025-04-03 14:49:16 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:49:16 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:49:17 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: contrast.<locals>.wrapper() missing 1 required positional argument: 'request'
+2025-04-03 14:49:17 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 72661
+2025-04-03 14:50:46 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: contrast.<locals>.wrapper() missing 1 required positional argument: 'request'
+2025-04-03 14:50:46 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 72661
+2025-04-03 14:51:44 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:51:44 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:51:51 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 122, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:51:51 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76732
+2025-04-03 14:51:51 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 122, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:51:51 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76732
+2025-04-03 14:55:26 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:55:27 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:55:28 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 200 3213
+2025-04-03 14:55:43 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:55:43 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:55:43 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 200 3213
+2025-04-03 14:56:12 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:56:12 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:56:13 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 123, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:56:13 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76707
+2025-04-03 14:56:49 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:56:50 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:56:50 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 125, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:56:50 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76664
+2025-04-03 14:57:03 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:57:03 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:57:03 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 126, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:57:03 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76670
+2025-04-03 14:57:59 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:58:01 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 123, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:58:01 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76707
+2025-04-03 14:58:11 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:58:11 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:58:12 - django.request - ERROR - Internal Server Error: /accounts/editor/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 27, in wrapper
+    return func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 124, in editor
+    fm = Fm(**dicts)
+         ^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'username'
+2025-04-03 14:58:12 - django.server - ERROR - "GET /accounts/editor/ HTTP/1.1" 500 76702
+2025-04-03 14:59:11 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-03 14:59:11 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 14:59:12 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 200 3251
+2025-04-03 15:24:32 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 15:24:34 - django.request - WARNING - Not Found: /
+2025-04-03 15:24:34 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 15:24:34 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-03 15:24:34 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2666
+2025-04-03 15:24:53 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3772
+2025-04-03 15:24:53 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1884
+2025-04-03 15:30:43 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 3994
+2025-04-03 15:30:43 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1434
+2025-04-03 22:09:51 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 22:09:59 - django.request - WARNING - Not Found: /
+2025-04-03 22:09:59 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-03 22:10:00 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-03 22:10:00 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2666
+2025-04-03 22:10:10 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4860
+2025-04-03 22:10:10 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2226
+2025-04-03 22:11:55 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4797
+2025-04-03 22:11:55 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2151
+2025-04-03 22:12:26 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4793
+2025-04-03 22:12:26 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2119
+2025-04-03 22:13:46 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\Cnblogs\settings.py changed, reloading.
+2025-04-03 22:13:46 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-03 22:14:46 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 4768
+2025-04-03 22:14:46 - django.server - INFO - "GET /static/photo/1.png HTTP/1.1" 200 382870
+2025-04-03 22:14:46 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1909
+2025-04-04 10:45:49 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 10:45:54 - django.request - WARNING - Not Found: /
+2025-04-04 10:45:54 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-04 10:45:54 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-04 10:45:54 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2666
+2025-04-04 10:46:23 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5552
+2025-04-04 10:46:24 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1693
+2025-04-04 10:50:57 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5489
+2025-04-04 10:50:57 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1835
+2025-04-04 10:51:49 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5489
+2025-04-04 10:51:49 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1913
+2025-04-04 10:53:16 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5484
+2025-04-04 10:53:16 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1762
+2025-04-04 10:56:55 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5484
+2025-04-04 10:56:55 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1678
+2025-04-04 10:58:34 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5489
+2025-04-04 10:58:34 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1424
+2025-04-04 10:59:46 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5490
+2025-04-04 10:59:46 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1971
+2025-04-04 11:02:26 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:02:30 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5665
+2025-04-04 11:02:30 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1400
+2025-04-04 11:03:41 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5700
+2025-04-04 11:03:41 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1817
+2025-04-04 11:05:05 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\urls.py changed, reloading.
+2025-04-04 11:05:06 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:05:07 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5700
+2025-04-04 11:05:07 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1719
+2025-04-04 11:08:14 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5804
+2025-04-04 11:08:14 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2151
+2025-04-04 11:09:44 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:09:45 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:09:45 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5804
+2025-04-04 11:09:45 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1327
+2025-04-04 11:22:01 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:22:09 - django.request - WARNING - Not Found: /
+2025-04-04 11:22:09 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-04 11:22:13 - django.request - WARNING - Not Found: /
+2025-04-04 11:22:13 - django.server - WARNING - "GET / HTTP/1.1" 404 2615
+2025-04-04 11:22:21 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5847
+2025-04-04 11:22:21 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2088
+2025-04-04 11:25:20 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5834
+2025-04-04 11:25:20 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2043
+2025-04-04 11:25:21 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('files_obj')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:25:21 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71795
+2025-04-04 11:25:21 - django.request - WARNING - Not Found: /accounts/login/undefined
+2025-04-04 11:25:21 - django.server - WARNING - "GET /accounts/login/undefined HTTP/1.1" 404 4064
+2025-04-04 11:26:02 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('files_obj')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:26:02 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71795
+2025-04-04 11:26:02 - django.request - WARNING - Not Found: /accounts/login/undefined
+2025-04-04 11:26:02 - django.server - WARNING - "GET /accounts/login/undefined HTTP/1.1" 404 4064
+2025-04-04 11:29:05 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5849
+2025-04-04 11:29:05 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1813
+2025-04-04 11:29:06 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('files_obj')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:29:06 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71795
+2025-04-04 11:29:19 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5849
+2025-04-04 11:29:19 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1572
+2025-04-04 11:29:20 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('files_obj')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:29:20 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71795
+2025-04-04 11:31:26 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:31:27 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:32:21 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5870
+2025-04-04 11:32:21 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1682
+2025-04-04 11:32:23 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:32:23 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71783
+2025-04-04 11:32:30 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:32:30 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71783
+2025-04-04 11:32:54 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5870
+2025-04-04 11:32:54 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2288
+2025-04-04 11:32:57 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 166, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:32:57 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99321
+2025-04-04 11:32:58 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 166, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:32:58 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99321
+2025-04-04 11:33:21 - django.server - INFO - "GET /accounts/change_head/ HTTP/1.1" 302 0
+2025-04-04 11:33:21 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 302 0
+2025-04-04 11:33:21 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5870
+2025-04-04 11:33:21 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1820
+2025-04-04 11:34:22 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:34:29 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5870
+2025-04-04 11:34:29 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1932
+2025-04-04 11:34:31 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:34:31 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71783
+2025-04-04 11:37:08 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:37:09 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:37:09 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5870
+2025-04-04 11:37:09 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1693
+2025-04-04 11:37:10 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:37:10 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71805
+2025-04-04 11:37:53 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:37:53 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71805
+2025-04-04 11:39:59 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:40:01 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5984
+2025-04-04 11:40:01 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1942
+2025-04-04 11:40:02 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5984
+2025-04-04 11:40:02 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:40:02 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1939
+2025-04-04 11:40:02 - django.server - INFO - - Broken pipe from ('127.0.0.1', 58508)
+2025-04-04 11:40:05 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:40:05 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 71805
+2025-04-04 11:40:05 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5984
+2025-04-04 11:40:05 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1427
+2025-04-04 11:40:06 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5984
+2025-04-04 11:40:06 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 160, in change_head
+    head = request.FILES.getlist('fields')[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-04 11:40:06 - django.server - INFO - - Broken pipe from ('127.0.0.1', 58525)
+2025-04-04 11:40:06 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1655
+2025-04-04 11:40:11 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 167, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:40:11 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99355
+2025-04-04 11:40:18 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 167, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:40:18 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99355
+2025-04-04 11:40:28 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 167, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:40:28 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99355
+2025-04-04 11:42:08 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:42:12 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5971
+2025-04-04 11:42:12 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1533
+2025-04-04 11:42:15 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 167, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:42:15 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99355
+2025-04-04 11:44:02 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:44:03 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6022
+2025-04-04 11:44:03 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1818
+2025-04-04 11:44:07 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 167, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:44:07 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99355
+2025-04-04 11:45:53 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:45:56 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6038
+2025-04-04 11:45:56 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1721
+2025-04-04 11:46:00 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 167, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:46:00 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99355
+2025-04-04 11:50:18 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:50:18 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:50:40 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:50:41 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:52:49 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:52:49 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1474
+2025-04-04 11:52:50 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:52:50 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2091
+2025-04-04 11:52:55 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 167, in change_head
+    return JsonResponse(statues)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:52:55 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99344
+2025-04-04 11:54:44 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:54:44 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:55:21 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:55:24 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:55:24 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1455
+2025-04-04 11:55:27 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 302 0
+2025-04-04 11:55:27 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:55:41 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:55:41 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:55:42 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:55:42 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1647
+2025-04-04 11:55:43 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:55:43 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1574
+2025-04-04 11:55:48 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 166, in change_head
+    rep = JsonResponse(statues)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:55:48 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99311
+2025-04-04 11:56:54 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 11:56:54 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 11:56:55 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:56:55 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1609
+2025-04-04 11:56:58 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 170, in change_head
+    rep = JsonResponse(statues)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:56:58 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99299
+2025-04-04 11:58:04 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 89
+2025-04-04 11:58:04 - django.server - INFO - "GET /accounts/test_redirect/ HTTP/1.1" 200 510
+2025-04-04 11:58:08 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:58:10 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:58:10 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1628
+2025-04-04 11:58:22 - django.server - INFO - "GET /accounts/editor?csrfmiddlewaretoken=yVhJ3wCKT43ing8TjC2OXZdyVb3ueKpYGClICTsJNTLAyglmLIvkr7p0x3OcH8mP HTTP/1.1" 301 0
+2025-04-04 11:58:22 - django.server - INFO - "GET /accounts/editor/?csrfmiddlewaretoken=yVhJ3wCKT43ing8TjC2OXZdyVb3ueKpYGClICTsJNTLAyglmLIvkr7p0x3OcH8mP HTTP/1.1" 200 3257
+2025-04-04 11:58:37 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 11:58:37 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1616
+2025-04-04 11:58:43 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 170, in change_head
+    rep = JsonResponse(statues)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 11:58:43 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99412
+2025-04-04 12:00:20 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:00:21 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:00:21 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1430
+2025-04-04 12:00:29 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 171, in change_head
+    rep = JsonResponse(statues)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 12:00:29 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99435
+2025-04-04 12:01:02 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 12:01:03 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:01:03 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:01:03 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2064
+2025-04-04 12:01:52 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 12:01:52 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:02:16 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:02:16 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2116
+2025-04-04 12:02:20 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 172, in change_head
+    rep = JsonResponse(statues)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30490\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type InMemoryUploadedFile is not JSON serializable
+2025-04-04 12:02:20 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 99449
+2025-04-04 12:03:17 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:03:19 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:03:19 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1834
+2025-04-04 12:04:28 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:04:28 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1589
+2025-04-04 12:05:35 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 12:05:35 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:05:48 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:05:51 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:05:51 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1814
+2025-04-04 12:06:24 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 177, in change_head
+    with open(upload_lc, 'wb', encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: binary mode doesn't take an encoding argument
+2025-04-04 12:06:24 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 72493
+2025-04-04 12:06:43 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:06:45 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:06:45 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1653
+2025-04-04 12:06:48 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 177, in change_head
+    with open(upload_lc, 'wb', encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: binary mode doesn't take an encoding argument
+2025-04-04 12:06:48 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 72493
+2025-04-04 12:10:43 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:10:45 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:10:45 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1735
+2025-04-04 12:10:49 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 177, in change_head
+    with open(upload_lc, 'wb', encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: binary mode doesn't take an encoding argument
+2025-04-04 12:10:49 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 72465
+2025-04-04 12:13:49 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:13:51 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:13:52 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1232
+2025-04-04 12:13:55 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 177, in change_head
+    with open(upload_lc, 'wb', encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: binary mode doesn't take an encoding argument
+2025-04-04 12:13:55 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 72622
+2025-04-04 12:14:06 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:14:10 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6286
+2025-04-04 12:14:10 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1862
+2025-04-04 12:14:14 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 178, in change_head
+    print(type(head) + '---------------------------------')
+          ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for +: 'type' and 'str'
+2025-04-04 12:14:14 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 72782
+2025-04-04 12:15:10 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 12:15:10 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:23:14 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5943
+2025-04-04 12:23:15 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2231
+2025-04-04 12:23:32 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 99
+2025-04-04 12:24:45 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:24:47 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5976
+2025-04-04 12:24:47 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1943
+2025-04-04 12:24:50 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 99
+2025-04-04 12:26:33 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6035
+2025-04-04 12:26:33 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1782
+2025-04-04 12:26:42 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:26:44 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6035
+2025-04-04 12:26:44 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2020
+2025-04-04 12:26:48 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 99
+2025-04-04 12:26:48 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6035
+2025-04-04 12:26:48 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1794
+2025-04-04 12:33:44 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6096
+2025-04-04 12:33:44 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1716
+2025-04-04 12:33:48 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 99
+2025-04-04 12:41:29 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:41:31 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5976
+2025-04-04 12:41:31 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1613
+2025-04-04 12:41:34 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 99
+2025-04-04 12:41:34 - django.server - INFO - "GET /static/photo/1.jpg HTTP/1.1" 200 127903
+2025-04-04 12:46:18 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5976
+2025-04-04 12:46:18 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1792
+2025-04-04 12:47:33 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 12:47:33 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:52:32 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 12:52:33 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 12:57:10 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 12:57:10 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:01:00 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 13:01:00 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:01:01 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5934
+2025-04-04 13:01:01 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1875
+2025-04-04 13:01:05 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 175, in change_head
+    for entry in os.scandir(load_path):
+                 ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\1'
+2025-04-04 13:01:05 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 72988
+2025-04-04 13:03:26 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 13:03:26 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:03:55 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:03:58 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5934
+2025-04-04 13:03:58 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1640
+2025-04-04 13:04:01 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 96
+2025-04-04 13:05:42 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 13:05:42 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:06:33 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 13:06:34 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:07:15 - django.utils.autoreload - INFO - D:\pycharm_project\Cnblogs\accounts\views.py changed, reloading.
+2025-04-04 13:07:16 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:08:28 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:08:31 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5985
+2025-04-04 13:08:31 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1448
+2025-04-04 13:08:34 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 96
+2025-04-04 13:08:34 - django.server - WARNING - "GET /static/photo/1/null HTTP/1.1" 404 1850
+2025-04-04 13:09:18 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:09:29 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:09:31 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5985
+2025-04-04 13:09:31 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1972
+2025-04-04 13:11:30 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:11:32 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5985
+2025-04-04 13:11:32 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2338
+2025-04-04 13:11:37 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 96
+2025-04-04 13:11:37 - django.server - WARNING - "GET /static/photo/1/null HTTP/1.1" 404 1850
+2025-04-04 13:12:54 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:12:56 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5985
+2025-04-04 13:12:56 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1540
+2025-04-04 13:14:13 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:14:16 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5973
+2025-04-04 13:14:16 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1701
+2025-04-04 13:16:11 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:16:24 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:16:24 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5973
+2025-04-04 13:16:24 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1441
+2025-04-04 13:16:29 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5973
+2025-04-04 13:16:29 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1805
+2025-04-04 13:16:35 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 35
+2025-04-04 13:16:35 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 5973
+2025-04-04 13:16:35 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1806
+2025-04-04 13:18:36 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:18:39 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6009
+2025-04-04 13:18:39 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 2073
+2025-04-04 13:18:43 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 35
+2025-04-04 13:18:43 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6009
+2025-04-04 13:18:43 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1327
+2025-04-04 13:19:21 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:19:23 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6009
+2025-04-04 13:19:23 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1322
+2025-04-04 13:19:38 - django.request - ERROR - Internal Server Error: /accounts/change_head/
+Traceback (most recent call last):
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\DjangoProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pycharm_project\Cnblogs\accounts\views.py", line 187, in change_head
+    rep = HttpResponse(json.dump(statues))
+                       ^^^^^^^^^^^^^^^^^^
+TypeError: dump() missing 1 required positional argument: 'fp'
+2025-04-04 13:19:38 - django.server - ERROR - "POST /accounts/change_head/ HTTP/1.1" 500 78205
+2025-04-04 13:19:38 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6009
+2025-04-04 13:19:39 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1569
+2025-04-04 13:20:37 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2025-04-04 13:20:39 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6021
+2025-04-04 13:20:39 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1150
+2025-04-04 13:20:44 - django.server - INFO - "POST /accounts/change_head/ HTTP/1.1" 200 101
+2025-04-04 13:20:44 - django.server - INFO - "GET /static/photo/1/123.jpg HTTP/1.1" 200 184664

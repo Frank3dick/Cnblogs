@@ -1,0 +1,16 @@
+{% extends 'templates_header.html' %}
+{% block content %}
+    <form action='/text_app/alter_article-{{ articles_id }}-{{ articles_id }}/' method="post">
+        {% csrf_token %}
+        <input type="text" name="title" placeholder="标题" value="{{ statues.data.title }}"/>
+        <input type="text" name="summary" placeholder="内容汇总" value='{{ statues.data.summary }}'/>
+        <textarea cols="50" rows="10" name="content" placeholder="文章内容" >{{ statues.data.content }}
+        </textarea>
+        <select name="select_category">
+            {% for i in categories %}
+                <option value="{{ i.id }}" {% if i.id == statues.data.category_id %}selected{% endif %}>{{ i.name }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="上传文章"/>
+    </form>
+{% endblock %}

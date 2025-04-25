@@ -1,0 +1,63 @@
+{% extends 'templates_header.html' %}
+{% load static %}
+{% block css %}
+    <style>
+        .content_border{
+            border: cadetblue;
+            font-size: 30px;
+        }
+    </style>
+{% endblock %}
+{% block button %}
+    {% if alter_able %}
+        <input type="button" id="alter_1" value="修改文章"/>
+    {% endif %}
+{% endblock %}
+{% block content %}
+    <div class="content_border">
+        {{ content }}
+    </div>
+    {% include 'like.html' %}
+    <form action="/comments/submit_comments/" method="post" id="submit_comments">
+        {% csrf_token %}
+        <input type="text" style="display: none" value="{{ articles_id }}" name="articles_id"/>
+        <input id='comments_contents' placeholder="评论" type="text" name="comments_contents"/>
+        <input type="button" value="提交" id="submit_comments_button"/>
+    </form>
+    {% for comment in comments %}
+        <div style="font-size: 15px">
+            <p>{{ comment.up_user_id.username }}</p>
+            <hr>
+            <p>{{ comment.content }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}
+{# 最后在detail.html中实现 ： 1，评论 2，修改文章#}
+{% block js %}
+    <script>
+        $('#alter_1').click(function (){
+            var articles_id = {{ articles_id }};
+            var author_id = {{ author_id }};
+            window.location.href = `/text_app/alter_article-${articles_id}-${author_id}/`;
+        })
+        $('#submit_comments_button').click(function (){
+            $.ajax({
+                url:'/comments/submit_comments/',
+                data: $('#submit_comments').serialize(),
+                type:'POST',
+                dataType:'json',
+                header:{
+                    'X-CSRFToken': $.cookie('csrftoken')
+                },
+                success: function (data){
+                        console.log('finish');
+                        location.reload(true);
+
+                },
+                error: function (data){
+                    alert(data.error)
+                }
+            })
+        })
+    </script>
+{% endblock %}

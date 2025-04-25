@@ -1,0 +1,37 @@
+{% extends 'templates_header.html' %}
+{% load static %}
+{% block content %}
+    <form action="/text_app/create_articles/" method="post">
+        {% csrf_token %}
+        <input type="text" name="title" placeholder="标题"/>
+        <input type="text" name="summary" placeholder="内容汇总"/>
+        <textarea cols="50" rows="10" name="content" placeholder="文章内容" id="kind_editor">
+{#            中间values就是默认值#}
+        </textarea>
+        <select name="select_category">
+            {% for i in categories %}
+                <option value="{{ i.id }}">{{ i.name }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="上传文章"/>
+    </form>
+{% endblock %}
+{% block js %}
+    <script src="{% static 'kindeditor-master/kindeditor-all.js' %}"></script>
+    <script>
+        $(function (){
+            KindEditor.create('#kind_editor',{
+                width:'300px',
+                height:'500px',
+                minWidth:200,
+                minHeight: 400,
+                items: ['source', 'preview', 'undo', 'redo', 'copy', 'paste', 'justifyleft', 'justifycenter', 'fontname', 'fontsize', 'fontcolor','hilitecolor', 'forecolor' ,'bold', 'table', ],
+                resizeType:2,
+                extraFileUploadParams: {
+                    csrfmiddlewaretoken:'{{ csrf_token }}'
+                },
+
+            })
+        })
+    </script>
+{% endblock %}

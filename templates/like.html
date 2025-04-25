@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
+    <title>点赞按钮</title>
+    <style>
+        .like-button {
+            transition: all 0.3s ease;
+        }
+
+        .like-button:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 flex justify-center items-center h-screen">
+    <button id="likeButton" class="like-button bg-blue-500 text-white py-2 px-4 rounded flex items-center space-x-2">
+        <i id="likeIcon" class="fa-regular fa-thumbs-up"></i>
+        <span id="likeCount">{{ count }}</span>
+    </button>
+    <script src="{% static 'jquery-1.12.4.js' %}"></script>
+    <script src="{% static 'jquery-cookie.js' %}"></script>
+    <script>
+        const likeButton = document.getElementById('likeButton');
+        const likeIcon = document.getElementById('likeIcon');
+        const likeCount = document.getElementById('likeCount');
+
+        let isLiked = false;
+        let count = {{ count }};
+
+        likeButton.addEventListener('click', function () {
+            if (isLiked) {
+                likeIcon.classList.remove('fa-solid');
+                likeIcon.classList.add('fa-regular');
+                count--;
+            } else {
+                likeIcon.classList.remove('fa-regular');
+                likeIcon.classList.add('fa-solid');
+                count++;
+            }
+            isLiked = !isLiked;
+            likeCount.textContent = count;
+       /*     $.ajax({
+                url: '/cmdb_1/like',
+                data: {'count': count},
+                dataType: 'json',
+                type: 'POST',
+                headers: {
+                    'X-CSRFToken': $.cookie('csrftoken')
+                },
+                success: function (data) {
+                    console.log(data.count);
+                }
+            })  */
+        });
+
+    </script>
+</body>
+
+</html>
