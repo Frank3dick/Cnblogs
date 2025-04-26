@@ -7,5 +7,10 @@ class User(models.Model):
     email = models.EmailField()
     create_time = models.DateField(auto_now_add=True, null=True)
     update_time = models.DateField(auto_now=True, null=True)
+    class Meta:
+        # 定义联合索引
+        indexes = [
+            models.Index(fields=['username', 'password', 'email']),
+        ]
     def __str__(self):
         return self.username

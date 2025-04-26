@@ -5,3 +5,35 @@
 2025-04-25 21:21:38 - django.request - WARNING - Not Found: /favicon.ico
 2025-04-25 21:21:38 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2826
 2025-04-25 21:21:40 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 7897
+2025-04-26 10:53:26 - django.server - INFO - "GET / HTTP/1.1" 200 4384
+2025-04-26 10:53:27 - django.request - WARNING - Not Found: /favicon.ico
+2025-04-26 10:53:27 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 2826
+2025-04-26 10:53:28 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-26 10:53:28 - django.server - INFO - "GET /static/photo/1.jpg HTTP/1.1" 200 304221
+2025-04-26 10:53:28 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1671
+2025-04-26 10:53:31 - django.server - INFO - "GET /accounts/check_code/? HTTP/1.1" 200 1604
+2025-04-26 10:53:45 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-26 10:53:45 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1436
+2025-04-26 10:54:08 - django.server - INFO - "GET /accounts/login/ HTTP/1.1" 200 6133
+2025-04-26 10:54:08 - django.server - INFO - "GET /accounts/check_code/ HTTP/1.1" 200 1738
+2025-04-26 10:54:23 - django.server - INFO - "POST /accounts/login/ HTTP/1.1" 200 87
+2025-04-26 10:54:23 - django.server - INFO - "GET / HTTP/1.1" 200 6246
+2025-04-26 10:54:23 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/2/1.jpg HTTP/1.1" 200 304221
+2025-04-26 10:54:23 - django.server - INFO - "GET /static/D%3A/pycharm_project/Cnblogs/static/photo/1/111.jpg HTTP/1.1" 200 184664
+2025-04-26 10:54:23 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-26 10:56:13 - django.server - INFO - "GET /accounts/editor/ HTTP/1.1" 200 3257
+2025-04-26 11:01:10 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 8113
+2025-04-26 11:01:10 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-26 11:01:11 - django.server - INFO - "GET /text_app/alter_article-7-1/ HTTP/1.1" 200 5413
+2025-04-26 11:01:30 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 8113
+2025-04-26 11:01:30 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-26 11:01:31 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 8113
+2025-04-26 11:01:31 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-26 11:01:32 - django.server - INFO - "GET /text_app/detail-7-1/ HTTP/1.1" 200 8113
+2025-04-26 11:01:32 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-26 11:01:33 - django.server - INFO - "GET / HTTP/1.1" 200 6246
+2025-04-26 11:01:33 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-26 11:01:35 - django.server - INFO - "GET /categories/dif_categories/ HTTP/1.1" 200 2079
+2025-04-26 11:01:35 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664
+2025-04-26 11:01:36 - django.server - INFO - "GET / HTTP/1.1" 200 6246
+2025-04-26 11:01:37 - django.server - INFO - "GET /text_app/header_ex/ HTTP/1.1" 200 184664

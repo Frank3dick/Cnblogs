@@ -13,5 +13,9 @@ class Article(models.Model):
     category_id = models.ForeignKey(Category, to_field='id',on_delete=models.CASCADE, related_name='articles')
     create_time = models.DateTimeField(auto_now_add=True, null=True)
     update_time = models.DateTimeField(auto_now=True, null=True)
+    class Meta:
+        indexes = [
+            models.Index(fields=['id', 'author_id']),
+        ]
     def __str__(self):
         return self.title

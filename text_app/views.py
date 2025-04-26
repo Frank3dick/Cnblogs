@@ -180,7 +180,7 @@ def own_articles(request):
 @contrast_head
 def detail(request, nid, author_id, extra): #  后台通过url传递两个参数顺序传递， 最后一个传递的是装饰器中的额外函数
     if request.method == "GET":
-        content = text_models.Article.objects.get(author_id=author_id, id=nid).content
+        content = text_models.Article.objects.get(id=nid, author_id=author_id).content
         if int(author_id) == request.session.get('id'):
             alter_able = True
         else:
