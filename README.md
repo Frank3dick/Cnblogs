@@ -7,7 +7,7 @@ Note the seeting of mysql , to alert you own sql, username, password
 
 - **用户的登录与注册**
 	- username \ password \ email \ 
-	- 随机刷新的验证码， 并且点击刷新(billow库)
+	- 随机刷新的验证码， 并且点击刷新(pillow库)
 	- 头像更新， 建立的是项目内文件储存更新
 	- 同时运用mysql进行数据存储与更新
 -	**博客主页** 
